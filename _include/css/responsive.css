@@ -410,7 +410,7 @@ only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (min-device-pixel-ratio: 2),
 only screen and (min-resolution: 2dppx) {
 .imagenInbiocon{
-		width: 240px;
+		width: 270px;
 
 	}
 	header #logo a {
