@@ -382,6 +382,10 @@
 }
 
 @media (max-width: 320px) {
+	.imagenInbiocon{
+		width: 250px;
+
+	}
 	#navigation-mobile li a {
 		padding: 20px 0;
 	}
@@ -395,6 +399,7 @@
 		padding-bottom: 120px;
 	}
 }
+
 
 
 /* Retina Display */
