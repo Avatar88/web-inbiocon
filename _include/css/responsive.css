@@ -409,7 +409,10 @@ only screen and (-moz-min-device-pixel-ratio: 2),
 only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (min-device-pixel-ratio: 2),
 only screen and (min-resolution: 2dppx) {
+.imagenInbiocon{
+		width: 240px;
 
+	}
 	header #logo a {
 		background-image: url(../img/logo_@2x.png);
 		background-size: 96px 30px;
